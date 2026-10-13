@@ -1,6 +1,6 @@
 # Nekoe 插件开发
 
-写给想给 [Nekoe](https://github.com/Mario9800/nekoe) 写插件的人。
+写给想给 [Nekolyra](https://github.com/Mario9800/nekoe) 写插件的人。
 
 **这份文档的重点是「出错了怎么办」** —— 前半部分是快速上手，
 后半部分按**你在哪里看到报错**来查问题。
